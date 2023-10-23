@@ -30,10 +30,10 @@ const ContainerCharacteres = styled.div`
     flex-direction: column;
     min-height: calc(100vh - 15vh);
     background: linear-gradient(to bottom, #160440, #333333);
-    padding: 0 100px;
 
         & h1{
             padding-top: 100px;
+            padding-left: 30px;
             color: #ffffff;
         }
 
